@@ -11,6 +11,16 @@ body{
     font-size: 65px;
     margin-bottom: 20px;
 }
+nav li a{
+  float: right;
+  color: white;
+  font-size: 30px;
+}
+nav li a:hover{
+  padding: 2px;
+  background-color: skyblue;
+  border-radius: 5px;
+}
 .container form{
   margin-top: 400px;
   /* align-items: center; */
