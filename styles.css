@@ -48,3 +48,7 @@ label,input{
     padding: 2px;
     border-radius: 4px;
 }
+b{
+    color: black;
+    font-size: 30px;
+}
